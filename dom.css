@@ -1,0 +1,25 @@
+.colorRed{
+    border : 2px solid red;
+   padding: 5px;
+   display: flex;
+}
+.colorBlue{
+    border : 2px solid blue;
+   width: 1000px;
+   height: 400px;
+   margin: 5px;
+   padding: 5px;
+}
+.colorGreen{
+    border : 2px solid green;
+   padding: 5px;
+   height: 200px;
+}
+
+span{
+    margin-top: 30px;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+}
